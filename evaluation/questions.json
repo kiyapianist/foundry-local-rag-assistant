@@ -1,0 +1,80 @@
+[
+  {
+    "id": "de-python-projects",
+    "question": "Which Python small projects are listed in the data engineering roadmap?",
+    "expected_source": "data engineering.docx",
+    "expected_any": ["csv", "json", "data types"]
+  },
+  {
+    "id": "de-etl-tools",
+    "question": "Which tools are recommended for the mini ETL project?",
+    "expected_source": "data engineering.docx",
+    "expected_any": ["python", "pandas"]
+  },
+  {
+    "id": "de-sql-topics",
+    "question": "What SQL topics should a data engineering student learn?",
+    "expected_source": "data engineering.docx",
+    "expected_any": ["join", "subqueries", "cte"]
+  },
+  {
+    "id": "red-visit",
+    "question": "Who is Little Red Riding Hood going to visit?",
+    "expected_source": "childrens-stories-little-red-riding-hood-www.learnenglishteam.com_.pdf",
+    "expected_any": ["grandmother", "grandma"]
+  },
+  {
+    "id": "red-basket",
+    "question": "What food and drink does Little Red Riding Hood's mother ask her to take to her grandmother?",
+    "expected_source": "childrens-stories-little-red-riding-hood-www.learnenglishteam.com_.pdf",
+    "expected_any": ["cake", "wine"]
+  },
+  {
+    "id": "penguin-character",
+    "question": "Who does Donna see on the boat in Girl Meets Boy?",
+    "expected_source": "D_Strange-Girl_Meets_Boy_Penguin_Readers-1-min.pdf",
+    "expected_any": ["mark"]
+  },
+  {
+    "id": "application-identity",
+    "question": "What identity information is requested in the application form?",
+    "expected_source": "Basvuru_Formu-Application_Form (1).pdf",
+    "expected_any": ["identity", "passport", "id"]
+  },
+  {
+    "id": "star-program",
+    "question": "What is the STAR internship program?",
+    "expected_source": "STAR_lisans_2024_2_PDF.pdf",
+    "expected_any": ["star", "intern"]
+  },
+  {
+    "id": "next-week-info",
+    "question": "What complementary information is planned for next week?",
+    "expected_source": "NEXT_WEEK_COMPLEMENTARY_INFO_FORM.md",
+    "expected_any": ["week", "information"]
+  },
+  {
+    "id": "unknown-capital",
+    "question": "What is the capital of Brazil?",
+    "expected_source": null,
+    "expected_any": []
+  },
+  {
+    "id": "unknown-physics",
+    "question": "Explain quantum chromodynamics and gluon confinement.",
+    "expected_source": null,
+    "expected_any": []
+  },
+  {
+    "id": "unknown-weather",
+    "question": "What will the weather in Tokyo be tomorrow?",
+    "expected_source": null,
+    "expected_any": []
+  },
+  {
+    "id": "unknown-recipe",
+    "question": "Give me a recipe for spaghetti carbonara.",
+    "expected_source": null,
+    "expected_any": []
+  }
+]
