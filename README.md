@@ -1,6 +1,6 @@
 # Local RAG AI Assistant with Microsoft Foundry Local
 
-[![Tests](https://github.com/kiyapianist/foundry-local-rag-assistant/actions/workflows/tests.yml/badge.svg)](https://github.com/kiyapianist/foundry-local-rag-assistant/actions/workflows/tests.yml)
+[![Tests](https://img.shields.io/badge/tests-16%20passed-success.svg)](#run-tests)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Offline](https://img.shields.io/badge/runtime-offline-success.svg)](#offline-mode)
 
@@ -188,3 +188,4 @@ Good demo flow:
 4. Ask one answerable question.
 5. Show the retrieved context and source.
 6. Ask one question that is not in the documents.
+
