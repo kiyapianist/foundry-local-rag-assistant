@@ -1,0 +1,38 @@
+# Python environment and caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local logs and temporary files
+*.log
+streamlit*.out.log
+streamlit*.err.log
+tmp/
+
+# Local/runtime-generated AI assets
+data/*
+!data/documents/
+data/documents/*
+!data/documents/.gitkeep
+data/foundry/
+data/models/
+data/knowledge.db
+data/*.sqlite
+data/*.sqlite3
+
+# Evaluation output may contain excerpts or filenames from private documents
+evaluation/results*.json
+
+# Scratch experiments
+scratch/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit secrets, if added later
+.streamlit/secrets.toml
